@@ -9,7 +9,7 @@ categories: [媛思]
 > “增删改查，太简单了！”
 > “全都是增删改查，一点技术含量都没有。”
 
-&emsp;&emsp;以上，是我听到的好多程序员说过的话。CRUD，增(Create)、读取查询(Retrieve)、更新(改，Update)、删除(Delete)。都说CRUD简单，CRUD真的简单吗？你可能会说是，但“初出茅庐”的我并不这样觉得。
+&emsp;&emsp;以上，是我听到的好多编程人员说过的话。CRUD，增(Create)、读取查询(Retrieve)、更新(改，Update)、删除(Delete)。都说CRUD简单，CRUD真的简单吗？你可能会说是，但“初出茅庐”的我并不这样觉得。
 &emsp;&emsp;本人做项目经验不长，写程序过程中总结的一些问题，特此记录下来：
 ### 查询
 
