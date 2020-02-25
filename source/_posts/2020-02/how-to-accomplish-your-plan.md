@@ -26,7 +26,7 @@ categories: [媛思]
 如果你自律性很强，从没遇到过上述类似问题，能够完美的实现自己预定的目标，这么优秀的你，我真的非常羡慕、佩服。但假如你也和我一样，没有很强的自律性，没有很好的工作、学习、生活习惯，完美的计划实现起来往往不尽如人意，那你就需要认清自己，摆脱现有的问题。如果不从自身情况出发，找出问题所在，你的目标计划往往很难完美实现。
 
 ![fighting](how-to-accomplish-your-plan/achievement-confident-free-freedom-6945.jpg) 
-
+<!-- more -->
 <center><b><font size="3">2.Get Start Now！</font></b></center>
 没错，就是**从现在开始着手去做**。
 
