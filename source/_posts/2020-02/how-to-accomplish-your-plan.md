@@ -8,7 +8,7 @@ categories: [媛思]
 ![fighting](how-to-accomplish-your-plan/blur-close-up-composition-craft-281962.jpg) 
 <p align="right"><font color="#555">自己的航道必须自己掌舵，<br/>即便风雨交加，也要坚持不懈。</font></p>
 
-<center><b><font size="3">1.认清自己，摆脱问题</font></b></center>
+## <center><b><font size="3">认清自己，摆脱问题</font></b></center>
 你是否一直坚持着一种仪式感：每次新年前后都要为自己新的一年制定一系列的目标计划，踌躇满志。
 
 你是否不满足于现状，抱怨所处的环境或身边的人在阻碍你的进步，想要努力改变，提升自己。于是你辞掉让你头疼的工作，或者搬去一个新的城市，期待着一个新的环境能够让你摆脱当下的不快乐，重新开始新的生活。
@@ -29,7 +29,7 @@ categories: [媛思]
 
 <!-- more -->
 
-<center><b><font size="3">2.Get Start Now！</font></b></center>
+## <center><b><font size="3">Get Start Now！</font></b></center>
 没错，就是**从现在开始着手去做**。
 
 比如，如果现在你身旁有一本书，不妨现在就拿来读一读。我知道，一开始就让你专心会很难，或许会有些痛苦，因为你不习惯，但是请你静下心来坚持读二十分钟，你会发现，阅读带给你的不仅仅是书中的知识，更是你能够坚持做一件事产生的自信。因为你内心渴望优秀，所以也请你坚持下去。
@@ -49,7 +49,7 @@ categories: [媛思]
 
 ![fighting](how-to-accomplish-your-plan/fashion-woman-notebook-pen-34072.jpg) 
 
-<center><b><font size="3">3.准确合理的制定并执行计划</font></b></center>
+## <center><b><font size="3">准确合理的制定并执行计划</font></b></center>
 **制定一个时长为一周的目标，而不是一个月甚至一年的目标。**
 
 如果你还没有养成很好的习惯，如果你还不能每天坚持去做自己计划的事情，那么请不要把你的计划周期制定的很长，**计划不要过于复杂，目标不要定的太高，要简单明确，切实可行。**
@@ -69,7 +69,7 @@ so，你的计划制定的合理吗？
 
 ![fighting](how-to-accomplish-your-plan/jumpshot-photography-of-woman-in-white-and-yellow-dress-near-884977.jpg) 
 
-<center><b><font size="3">4.记录成长，总结失败</font></b></center>
+## <center><b><font size="3">记录成长，总结失败</font></b></center>
 <b>定期复盘，记录你所做的事情，总结得失。</b>
 
 如果可以的话，每天进行复盘，写写日记，记下你这一天有意思的事情，你的收获，你犯过的错误，时刻反省自己，正所谓**“吾日三省吾身”**。若时间紧张，每周或者每月也应该要复盘一次，要坚持。
@@ -80,7 +80,7 @@ so，你的计划制定的合理吗？
 
 ![fighting](how-to-accomplish-your-plan/close-up-photo-of-white-and-black-journal-771322.jpg) 
 
-<center><b><font size="3">5.写在最后</font></b></center>
+## <center><b><font size="3">写在最后</font></b></center>
 <b>没有任何能够让你成长的事情是容易的。</b>
 分享一段尼克·胡哲的名言：
 
