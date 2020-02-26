@@ -1,5 +1,5 @@
 ---
-title: Redis学习笔记（三）——Redis键(key)
+title: Redis（三）——Redis键(key)
 date: 2018-08-18 10:22:30
 tags: [Redis]
 categories: Redis

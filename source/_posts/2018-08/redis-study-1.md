@@ -1,5 +1,5 @@
 ---
-title: Redis学习笔记（一）——Redis安装
+title: Redis（一）——Redis安装
 date: 2018-08-17 11:36:57
 tags: [Redis]
 categories: Redis

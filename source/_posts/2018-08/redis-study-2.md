@@ -1,5 +1,5 @@
 ---
-title: Redis学习笔记（二）——Redis数据类型
+title: Redis（二）——Redis数据类型
 date: 2018-08-17 15:32:33
 tags: [Redis]
 categories: Redis
