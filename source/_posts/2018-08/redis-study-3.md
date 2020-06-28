@@ -1,5 +1,5 @@
 ---
-title: Redis（三）——Redis键(key)
+title: Redis系列（三）——Redis键命令(key)
 date: 2018-08-18 10:22:30
 tags: [Redis]
 categories: Redis
@@ -8,15 +8,15 @@ categories: Redis
 
 > Redis 键命令用于管理Redis的键。  
 
-语法：
+### 语法：
 ```
 command keyName
 ```
-## Redis键命令
-> 列举部分redis键相关的基本命令
+
+以下列举部分常用的Redis键命令：
 
 ### DEL key
-> 删除已存在的键。不存在的key则会被忽略。  
+> 删除已存在的key。不存在的key则会被忽略。  
 
 语法：
 ```
@@ -34,6 +34,19 @@ OK
 127.0.0.1:6379> get name
 (nil)
 ```
+
+### DUMP key
+> 序列化给定的key并返回序列化之后的值。
+
+```
+127.0.0.1:6379> set name zrxJuly
+OK
+127.0.0.1:6379> get name
+"zrxJuly"
+127.0.0.1:6379> dump name
+"\x00\azrxJuly\t\x00\\\xb5\xa0\xd4;wR\xbf"
+```
+
 
 ### EXISTS key
 > 用于检查指定的key是否存在。  
@@ -55,8 +68,10 @@ OK
 (integer) 0
 ```
 <!-- more -->
+
 ### EXPIRE key seconds
-> 设置key的过期时间。key过期后将不再可用。
+> 设置key的过期时间。key过期后将不再可用，⚠️此处过期时间单位为秒（s）。
+
 语法:
 ```
 expire key seconds
@@ -68,6 +83,44 @@ expire key seconds
 127.0.0.1:6379> expire name 20
 (integer) 1
 ```
+
+### PEXPIRE key milliseconds
+> PEXPIRE命令的功能和EXPIRE基本一致，⚠️此处过期时间单位为毫秒（ms）。
+
+语法:
+```
+PEXPIRE key milliseconds
+```
+
+例：
+```
+127.0.0.1:6379> pexpire name 6000
+(integer) 1
+```
+
+### TTL key
+> 查看一个给定key的有效时间
+
+语法：
+```
+TTL keyName
+```
+
+例：
+```
+127.0.0.1:6379> get name
+"zrxJuly"
+127.0.0.1:6379> ttl name
+(integer) -1
+127.0.0.1:6379> expire name 5
+(integer) 1
+127.0.0.1:6379> ttl name
+(integer) 2
+127.0.0.1:6379> ttl name
+(integer) -2
+```
+返回值`(integer) -1`表示key存在并且没有设置过期时间，`(integer) -2`表示key不存在或已过期。
+
 ### PERSIST key
 > 移除给定key的过期时间，使得key永不过期。
 
@@ -101,3 +154,4 @@ keys *
 
 ### 参考资料
 [http://www.redis.net.cn/order/3528.html](http://www.redis.net.cn/order/3528.html)
+[https://www.runoob.com/redis/redis-keys.html](https://www.runoob.com/redis/redis-keys.html)

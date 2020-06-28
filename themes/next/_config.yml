@@ -158,12 +158,12 @@ links_title: Links
 links_layout: inline #链接样式横向
 links:
   crossoverJie's Blog: https://crossoverjie.top/
-  我在北纬36°: https://quinntian.xyz/
+  我在北纬36°: https://quinntian.com/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-avatar: /images/timg.jpg
+avatar: /images/avatar.jpeg
 
 # Table Of Contents in the Sidebar
 toc:
